@@ -124,8 +124,8 @@ This project is a simplified version of Shamir's Secret Sharing algorithm where 
 After running the `node rim.js` command, you will see output similar to:
 
 ```bash
-Test Case 1: The constant term c is: 4
-Test Case 2: The constant term c is: 1048571
+Test Case 1: The constant term c is: 3
+Test Case 2: The constant term c is: 79836264059587
 ```
 
 ---
