@@ -1,6 +1,6 @@
 # Catalog-assignment
 
-Here’s a `README.md` file for your project:
+
 
 ---
 
@@ -130,4 +130,4 @@ Test Case 2: The constant term c is: 1048571
 
 ---
 
-Feel free to adjust the content as per your needs!
+
